@@ -1,0 +1,7 @@
+version: '3'
+services:
+  hub:
+    build: .
+    ports:
+      - "3456:3456"
+    restart: always

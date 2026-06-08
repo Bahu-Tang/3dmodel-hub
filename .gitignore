@@ -1,0 +1,8 @@
+node_modules/
+server.log
+/tmp/
+*.db
+*.db-shm
+*.db-wal
+.DS_Store
+.cache/
