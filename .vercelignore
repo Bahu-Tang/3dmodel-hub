@@ -1,0 +1,14 @@
+server.js
+server-http.js
+scrapers.js
+server.log
+setup.bat
+start.bat
+node_modules/
+Dockerfile
+docker-compose.yml
+3D_Model_Hub.md
+worker.js
+*.db
+*.db-shm
+*.db-wal

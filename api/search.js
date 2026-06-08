@@ -222,3 +222,4 @@ async function searchMyMiniFactory(q) {
 function fixUrl(url) { return (url || '').replace(/^\/\//, 'https://'); }
 function enc(s) { return encodeURIComponent(s); }
 function f(source, url) { return { title: `去 ${source} 搜索`, source, url, image: '', likes: 0, downloads: 0, description: '点击跳转到原站查看搜索结果' }; }
+// deploy trigger 1780944881
